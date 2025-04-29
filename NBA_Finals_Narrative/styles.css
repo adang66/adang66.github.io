@@ -1,0 +1,66 @@
+
+img, p, h1, h2, h3  {
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    margin-bottom: 6px;
+}
+
+#name {
+    font-family: "Outfit";
+    font-size: 35px;
+    color: #468499
+}
+
+#date {
+    font-family: "Outfit";
+    font-size: 23px;
+    color: #468499
+}
+
+#image {
+    display: block;
+    max-width: 900px;
+}
+
+#graphics {
+    display: block;
+    max-width: 900px;
+}
+
+.divider {
+    height: 2px;
+    background-color: #468499;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 1500px;
+}
+
+
+body {
+    background-color: black;
+    color: #e5e4e2;
+}
+
+img {
+    display: block;
+    padding: 25px 0px;
+
+}
+
+
+
+
+
+
