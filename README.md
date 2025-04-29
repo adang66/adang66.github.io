@@ -1,1 +1,2 @@
-[# adang66.github.io](https://adang66.github.io/NBA_Finals_Narrative/)
+
+https://adang66.github.io/NBA_Finals_Narrative/
